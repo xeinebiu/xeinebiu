@@ -1,12 +1,21 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg)
+Hi 👋 My name is Arzan Nebiu
+============================
 
-<p align="center">
-  <img width="92" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/mkdir.png" />
-</p>  
-<h2 align="center">Hi there 👋, I'm Arzan!</h2>
+Senior Web/App Developer
+------------------------
+
+Experienced Developer with vast knowledge of a variety of computer languages. Adapt at all aspects of web, mobile and server. Efficient and performant in Typescript, specializing in Dart, proficient in Kotlin and C#.
+
+* 🌍  I'm based in Berlin
+* ✉️  You can contact me at [xeinebiu@gmail.com](mailto:xeinebiu@gmail.com)
+* 🚀  I'm currently working on [Sablono GBMH](http://sablono.com/)
+* 🤝  I'm open to collaborating on Flutter, Android Native & Web
+* ⚡  I'm secretly Batman... but don't tell anyone
 
 
-<a href="https://www.linkedin.com/in/arzan-nebiu/" target="blank">Linkedin: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="30" width="40" /></a> <a href="https://www.facebook.com/xeinebiu/" target="blank">Facebook: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+### Socials
+
+<p align="left"> <a href="https://www.facebook.com/xeinebiu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/xeinebiu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/xeinebiu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/arzan-nebiu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=xeinebiu&column=9&theme=gruvbox&no-frame=true"/>

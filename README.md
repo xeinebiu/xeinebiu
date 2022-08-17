@@ -8,7 +8,7 @@ Experienced Developer with vast knowledge of a variety of computer languages. Ad
 
 * 🌍  I'm based in Berlin
 * ✉️  You can contact me at [xeinebiu@gmail.com](mailto:xeinebiu@gmail.com)
-* 🚀  I'm currently working on [Sablono GBMH](http://sablono.com/)
+* 🚀  I'm currently working on [ServiceOcean AG](https://www.serviceocean.com/)
 * 🤝  I'm open to collaborating on Flutter, Android Native & Web
 * ⚡  I'm secretly Batman... but don't tell anyone
 

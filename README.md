@@ -6,7 +6,7 @@ Senior Web/App Developer
 
 Experienced Developer with vast knowledge of a variety of computer languages. Adapt at all aspects of web, mobile and server. Efficient and performant in Typescript, specializing in Dart, proficient in Kotlin and C#.
 
-* 🌍  I'm based in Berlin
+* 🌍  I'm based in St. Gallen, CH
 * ✉️  You can contact me at [xeinebiu@gmail.com](mailto:xeinebiu@gmail.com)
 * 🚀  I'm currently working on [ServiceOcean AG](https://www.serviceocean.com/)
 * 🤝  I'm open to collaborating on Flutter, Android Native & Web

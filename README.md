@@ -1,7 +1,7 @@
 Hi 👋 My name is Arzan Nebiu
 ============================
 
-Senior Web/App Developer
+Senior Software Engineer
 ------------------------
 
 Experienced Developer with vast knowledge of a variety of computer languages. Adapt at all aspects of web, mobile and server. Efficient and performant in Typescript, specializing in Dart, proficient in Kotlin and C#.
